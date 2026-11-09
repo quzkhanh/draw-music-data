@@ -1,0 +1,253 @@
+{
+ "version": 3,
+ "steps": 24,
+ "patternNote": "one character per time step (an eighth note); x = hit, a digit = scale degree from the root (0 root, 2 third, 4 fifth), . = rest; drum parts: kick, snare, hat, clap, openHat, tom (same notation)",
+ "vibes": [
+  {
+   "id": "gen-vibe-1",
+   "src": "gen",
+   "name": "Sunny",
+   "default": true,
+   "scale": "PENTATONIC",
+   "rootMidi": 48,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "snare": "..x...x...x...x...x...x."
+    },
+    "bass": "0.0.0.0.0.0.0.0.0.0.0.0.",
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-2",
+   "src": "gen",
+   "name": "Pure",
+   "default": false,
+   "scale": "PENTATONIC",
+   "rootMidi": 48,
+   "beats": {
+    "drum": null,
+    "bass": null,
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-3",
+   "src": "gen",
+   "name": "Dreamy",
+   "default": false,
+   "scale": "PENTATONIC",
+   "rootMidi": 48,
+   "beats": {
+    "drum": null,
+    "bass": null,
+    "arpeggio": "024024024024024024024024"
+   }
+  },
+  {
+   "id": "gen-vibe-4",
+   "src": "gen",
+   "name": "Happy",
+   "default": false,
+   "scale": "MAJOR",
+   "rootMidi": 48,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "snare": "..x...x...x...x...x...x."
+    },
+    "bass": "0.0.0.0.0.0.0.0.0.0.0.0.",
+    "arpeggio": "024024024024024024024024"
+   }
+  },
+  {
+   "id": "gen-vibe-5",
+   "src": "gen",
+   "name": "Blue",
+   "default": false,
+   "scale": "MINOR_PENTATONIC",
+   "rootMidi": 45,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "snare": "..x...x...x...x...x...x."
+    },
+    "bass": "0.0.0.0.0.0.0.0.0.0.0.0.",
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-6",
+   "src": "gen",
+   "name": "Moody",
+   "default": false,
+   "scale": "MINOR",
+   "rootMidi": 45,
+   "beats": {
+    "drum": null,
+    "bass": "0.0.0.0.0.0.0.0.0.0.0.0.",
+    "arpeggio": "024024024024024024024024"
+   }
+  },
+  {
+   "id": "gen-vibe-7",
+   "src": "gen",
+   "name": "Groovy",
+   "default": false,
+   "scale": "MIXOLYDIAN",
+   "rootMidi": 48,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "snare": "..x...x...x...x...x...x."
+    },
+    "bass": "0.0.0.0.0.0.0.0.0.0.0.0.",
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-8",
+   "src": "gen",
+   "name": "Mystic",
+   "default": false,
+   "scale": "PHRYGIAN",
+   "rootMidi": 52,
+   "beats": {
+    "drum": null,
+    "bass": null,
+    "arpeggio": "024024024024024024024024"
+   }
+  },
+  {
+   "id": "gen-vibe-9",
+   "src": "gen",
+   "name": "Bouncy",
+   "default": false,
+   "scale": "MAJOR",
+   "rootMidi": 44,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "snare": "..x...x...x...x...x...x.",
+     "hat": "x.x.x.x.x.x.x.x.x.x.x.x."
+    },
+    "bass": "0.0.0.0.0.0.0.0.0.0.0.0.",
+    "arpeggio": "024024024024024024024024"
+   }
+  },
+  {
+   "id": "gen-vibe-10",
+   "src": "gen",
+   "name": "Sparkle",
+   "default": false,
+   "scale": "PENTATONIC",
+   "rootMidi": 55,
+   "beats": {
+    "drum": {
+     "hat": "x.x.x.x.x.x.x.x.x.x.x.x."
+    },
+    "bass": null,
+    "arpeggio": "024240024240024240024240"
+   }
+  },
+  {
+   "id": "gen-vibe-11",
+   "src": "gen",
+   "name": "Night Drive",
+   "default": false,
+   "scale": "MINOR",
+   "rootMidi": 45,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "hat": "x.x.x.x.x.x.x.x.x.x.x.x."
+    },
+    "bass": "0..0..0..0..0..0..0..0..",
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-12",
+   "src": "gen",
+   "name": "Lazy Sunday",
+   "default": false,
+   "scale": "MAJOR",
+   "rootMidi": 48,
+   "beats": {
+    "drum": {
+     "snare": "..x...x...x...x...x...x.",
+     "clap": "..x.......x.......x....."
+    },
+    "bass": "0...0...0...0...0...0...",
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-13",
+   "src": "gen",
+   "name": "Island",
+   "default": false,
+   "scale": "MIXOLYDIAN",
+   "rootMidi": 50,
+   "beats": {
+    "drum": {
+     "kick": "x.....x...x.....x.....x.",
+     "hat": "x.x.x.x.x.x.x.x.x.x.x.x.",
+     "tom": ".....x.......x.......x.."
+    },
+    "bass": null,
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-14",
+   "src": "gen",
+   "name": "Lo-fi",
+   "default": false,
+   "scale": "MINOR_PENTATONIC",
+   "rootMidi": 45,
+   "beats": {
+    "drum": {
+     "kick": "x.....x...x.....x.....x.",
+     "snare": "..x...x...x...x...x...x.",
+     "hat": "x...x...x...x...x...x...",
+     "openHat": "......x.......x.......x."
+    },
+    "bass": "0.....0...0.....0.....0.",
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-15",
+   "src": "gen",
+   "name": "Parade",
+   "default": false,
+   "scale": "MAJOR",
+   "rootMidi": 44,
+   "beats": {
+    "drum": {
+     "kick": "x...x...x...x...x...x...",
+     "snare": "..x...x...x...x...x...x.",
+     "clap": "x.x.x.x.x.x.x.x.x.x.x.x.",
+     "tom": "...x.......x.......x...."
+    },
+    "bass": null,
+    "arpeggio": null
+   }
+  },
+  {
+   "id": "gen-vibe-16",
+   "src": "gen",
+   "name": "Starlight",
+   "default": false,
+   "scale": "PHRYGIAN",
+   "rootMidi": 52,
+   "beats": {
+    "drum": null,
+    "bass": null,
+    "arpeggio": "024042024042024042024042"
+   }
+  }
+ ]
+}

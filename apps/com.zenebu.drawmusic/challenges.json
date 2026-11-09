@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "challenges": [
+    {
+      "id": "gen-challenge-1",
+      "src": "gen",
+      "prompt": "A cat stretching in the sun",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-2",
+      "src": "gen",
+      "prompt": "A rainbow over the hills",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-3",
+      "src": "gen",
+      "prompt": "A bouncing ball",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-4",
+      "src": "gen",
+      "prompt": "Waves on the sea",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-5",
+      "src": "gen",
+      "prompt": "A rocket going to the moon",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-6",
+      "src": "gen",
+      "prompt": "A sleepy owl on a branch",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-7",
+      "src": "gen",
+      "prompt": "Raindrops on a window",
+      "vibe": "gen-vibe-5"
+    },
+    {
+      "id": "gen-challenge-8",
+      "src": "gen",
+      "prompt": "A mountain range at dawn",
+      "vibe": "gen-vibe-8"
+    },
+    {
+      "id": "gen-challenge-9",
+      "src": "gen",
+      "prompt": "A fish jumping out of the water",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-10",
+      "src": "gen",
+      "prompt": "A spiral staircase",
+      "vibe": "gen-vibe-8"
+    },
+    {
+      "id": "gen-challenge-11",
+      "src": "gen",
+      "prompt": "A city skyline at night",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-12",
+      "src": "gen",
+      "prompt": "A hot air balloon",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-13",
+      "src": "gen",
+      "prompt": "Your favourite fruit",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-14",
+      "src": "gen",
+      "prompt": "A butterfly in a garden",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-15",
+      "src": "gen",
+      "prompt": "A roller coaster ride",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-16",
+      "src": "gen",
+      "prompt": "A snail on a leaf",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-17",
+      "src": "gen",
+      "prompt": "Stars twinkling in the sky",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-18",
+      "src": "gen",
+      "prompt": "A paper plane flying",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-19",
+      "src": "gen",
+      "prompt": "A smiling sun",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-20",
+      "src": "gen",
+      "prompt": "A lighthouse on a cliff",
+      "vibe": "gen-vibe-6"
+    },
+    {
+      "id": "gen-challenge-21",
+      "src": "gen",
+      "prompt": "A bird flying south",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-22",
+      "src": "gen",
+      "prompt": "A cup of hot cocoa",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-23",
+      "src": "gen",
+      "prompt": "Flowers growing tall",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-24",
+      "src": "gen",
+      "prompt": "A train on a winding track",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-25",
+      "src": "gen",
+      "prompt": "A kite in the wind",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-26",
+      "src": "gen",
+      "prompt": "A dolphin jump",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-27",
+      "src": "gen",
+      "prompt": "Your initials in big letters",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-28",
+      "src": "gen",
+      "prompt": "A heart that beats",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-29",
+      "src": "gen",
+      "prompt": "A zigzag lightning bolt",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-30",
+      "src": "gen",
+      "prompt": "A tree in four seasons",
+      "vibe": "gen-vibe-6"
+    },
+    {
+      "id": "gen-challenge-31",
+      "src": "gen",
+      "prompt": "A frog on a lily pad",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-32",
+      "src": "gen",
+      "prompt": "A rocket launch countdown",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-33",
+      "src": "gen",
+      "prompt": "Ocean bubbles rising",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-34",
+      "src": "gen",
+      "prompt": "A sleepy cloud",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-35",
+      "src": "gen",
+      "prompt": "A slice of pizza",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-36",
+      "src": "gen",
+      "prompt": "A bicycle ride",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-37",
+      "src": "gen",
+      "prompt": "A dancing robot",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-38",
+      "src": "gen",
+      "prompt": "A crescent moon",
+      "vibe": "gen-vibe-8"
+    },
+    {
+      "id": "gen-challenge-39",
+      "src": "gen",
+      "prompt": "A garden of mushrooms",
+      "vibe": "gen-vibe-8"
+    },
+    {
+      "id": "gen-challenge-40",
+      "src": "gen",
+      "prompt": "A snowflake falling slowly",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-41",
+      "src": "gen",
+      "prompt": "A busy beehive",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-42",
+      "src": "gen",
+      "prompt": "A volcano with a little puff",
+      "vibe": "gen-vibe-8"
+    },
+    {
+      "id": "gen-challenge-43",
+      "src": "gen",
+      "prompt": "A shooting star",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-44",
+      "src": "gen",
+      "prompt": "A sailboat on calm water",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-45",
+      "src": "gen",
+      "prompt": "A happy dog wagging its tail",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-46",
+      "src": "gen",
+      "prompt": "A spinning top",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-47",
+      "src": "gen",
+      "prompt": "A pair of sneakers",
+      "vibe": "gen-vibe-7"
+    },
+    {
+      "id": "gen-challenge-48",
+      "src": "gen",
+      "prompt": "A piano keyboard",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-49",
+      "src": "gen",
+      "prompt": "A slice of birthday cake",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-50",
+      "src": "gen",
+      "prompt": "A turtle racing a rabbit",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-51",
+      "src": "gen",
+      "prompt": "A desert cactus",
+      "vibe": "gen-vibe-8"
+    },
+    {
+      "id": "gen-challenge-52",
+      "src": "gen",
+      "prompt": "A soap bubble floating up",
+      "vibe": "gen-vibe-3"
+    },
+    {
+      "id": "gen-challenge-53",
+      "src": "gen",
+      "prompt": "Fireworks over a lake",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-54",
+      "src": "gen",
+      "prompt": "A melting ice cream cone",
+      "vibe": "gen-vibe-5"
+    },
+    {
+      "id": "gen-challenge-55",
+      "src": "gen",
+      "prompt": "An umbrella in the rain",
+      "vibe": "gen-vibe-5"
+    },
+    {
+      "id": "gen-challenge-56",
+      "src": "gen",
+      "prompt": "A windmill turning",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-57",
+      "src": "gen",
+      "prompt": "A road trip map",
+      "vibe": "gen-vibe-1"
+    },
+    {
+      "id": "gen-challenge-58",
+      "src": "gen",
+      "prompt": "A cozy campfire",
+      "vibe": "gen-vibe-2"
+    },
+    {
+      "id": "gen-challenge-59",
+      "src": "gen",
+      "prompt": "A penguin sliding on ice",
+      "vibe": "gen-vibe-4"
+    },
+    {
+      "id": "gen-challenge-60",
+      "src": "gen",
+      "prompt": "Your mood today in one line",
+      "vibe": "gen-vibe-2"
+    }
+  ]
+}
